@@ -38,5 +38,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./artefacts
-          publish_branch: actions
+          publish_branch: artefacts
           commit_message: "Update Snake Animations"

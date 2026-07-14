@@ -9,5 +9,3 @@ Taking my time to perfect my commits, and I still got love for the streets.
 
 &nbsp;
 &nbsp;
-
-Check out [Project KONGOR](https://github.com/Project-KONGOR-Open-Source), my hobby project that I work on as [[K]ONGOR](https://github.com/K-O-N-G-O-R), and which currently serves over 350k users worldwide.

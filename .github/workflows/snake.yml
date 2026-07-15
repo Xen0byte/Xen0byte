@@ -43,3 +43,4 @@ jobs:
           publish_dir: ./artefacts
           publish_branch: artefacts
           commit_message: "Update Snake Animations"
+          force_orphan: true
